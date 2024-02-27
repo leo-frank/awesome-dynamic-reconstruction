@@ -13,7 +13,7 @@ If you have any additions or suggestions, feel free to contribute. Additional re
 
 ## NeRF
 ### 1. D-NeRF (CVPR 2021)
-### 2. HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields.
+### 2. HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields
 ### 3. Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video
 ### 4. Fast Dynamic Radiance Fields with Time-Aware Neural Voxels
 ### 5. Robust Dynamic Radiance Fields
@@ -24,9 +24,8 @@ If you have any additions or suggestions, feel free to contribute. Additional re
 ### 10. Tensor4D: Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering
 ### 11. Masked Space-Time Hash Encoding for Efficient Dynamic Scene Reconstruction
 ### 12. NSFF: Neural scene flow fields for space-time view synthesis of dynamic scenes (CVPR 2021)
-
 ### 13. DynIBaR: Neural Dynamic Image-Based Rendering (CVPR 2023 Best Paper Honorable Mention)
-### 14. Space-time Neural Irradiance Fields for Free-Viewpoint Video (Jia-Bin Huang) (CVPR 2021)
+### 14. Space-time Neural Irradiance Fields for Free-Viewpoint Video (CVPR 2021)
 ### 15. Dynamic View Synthesis from Dynamic Monocular Video (ICCV 2021)
 ### 16. Neural Trajectory Fields for Dynamic Novel View Synthesis
 ### 17. Monocular Dynamic View Synthesis A Reality Check (Neurips 2022)
@@ -45,19 +44,19 @@ If you have any additions or suggestions, feel free to contribute. Additional re
 ### 4. Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting (ICLR 2024) 
 ### 5. ParticleNeRF: Particle Based Encoding for Online Neural Radiance Fields in Dynamic Scenes
 ### 6. Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle
-### 7. 4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes (2024 0205) (北大)
+### 7. 4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes
 ### 8.  GauFRe🧇: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis
 ### 9. DynMF: Neural Motion Factorization for Real-time Dynamic View Synthesis with 3D Gaussian Splatting
-### 10. An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes (January, 2023)
-### 11. Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction (2023 09)
+### 10. An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes
+### 11. Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction
 ### 12. Fast View Synthesis of Casual Videos
-### 13. Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis (2023 12)
+### 13. Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis
 ### 14. SWAGS: Sampling Windows Adaptively for Dynamic 3D Gaussian Splatting
 
 
 ## Overviews:
-### 1. State of the Art in Dense Monocular Non-Rigid 3D Reconstruction(EUROGRAPHICS State-of-the-Art Reports 2023)
-### 2. Recent Trends in 3D Reconstruction of General Non-Rigid Scenes (EUROGRAPHICS State-of-the-Art Reports 2024)
+### 1. State of the Art in Dense Monocular Non-Rigid 3D Reconstruction(EUROGRAPHICS STAR Reports 2023)
+### 2. Recent Trends in 3D Reconstruction of General Non-Rigid Scenes (EUROGRAPHICS STAR Reports 2024)
 
 ## Seminar:
 
